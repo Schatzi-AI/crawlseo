@@ -45,3 +45,6 @@ next-env.d.ts
 
 # launch drafts (local only)
 docs/launch/
+
+# Claude Code agent worktrees (temporary isolated checkouts)
+.claude/worktrees/
