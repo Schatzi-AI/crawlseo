@@ -48,3 +48,6 @@ docs/launch/
 
 # Claude Code agent worktrees (temporary isolated checkouts)
 .claude/worktrees/
+
+# graphify build output — canonical home is ~/dev/Graphify/{Project}/{repo}/
+graphify-out/
